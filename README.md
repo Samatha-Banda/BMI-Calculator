@@ -4,9 +4,7 @@ A simple and responsive BMI (Body Mass Index) Calculator built using HTML, CSS, 
 
 ## 🚀 Live Demo
 
-Add your deployed link here:
-
-https://your-demo-link.com
+link here: https://bmi-calculator-coral-iota.vercel.app/
 
 ## ✨ Features
 
@@ -73,10 +71,6 @@ cd BMI-Calculator
 - Health Tips Based on BMI
 - Mobile App Version
 
-## 👩‍💻 Author
+## 📝 Feedback
 
-**Samatha Banda**
-
-GitHub: https://github.com/Samatha-Banda
-
----
+Users can share their feedback, suggestions, and experience using the feedback form available in the application. This helps improve the user experience and functionality of the BMI Calculator.
